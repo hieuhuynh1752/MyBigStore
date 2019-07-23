@@ -1,6 +1,6 @@
 <?php 
 	function getDB(){
-		$dsn = "mysql:host=localhost;dbname=shop_online";
+		$dsn = "mysql:host=localhost;dbname=NgHmbsjt37";
 		$username = "root";
 		$password = '';
 		$options=array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION,PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8");
